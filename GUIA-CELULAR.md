@@ -14,6 +14,7 @@
 | Mudar algo no cartão | `/ajustar` e o que quer. Ex.: `/ajustar deixar o botão do WhatsApp maior` |
 | Conferir antes de publicar | `/revisar` |
 | Colocar no ar o que aprovei | `/publicar` |
+| E-mail da última reunião, pronto para eu só aprovar | `/email-reuniao` e, se quiser, para quem. Ex.: `/email-reuniao para a Cláudia` |
 | Guardar uma ideia para depois | `/anotar` e a ideia. Ex.: `/anotar trocar a foto do cartão` |
 
 ## Passo a passo de uma mudança

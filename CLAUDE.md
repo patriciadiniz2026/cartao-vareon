@@ -26,4 +26,5 @@ As skills em `.claude/skills/` (Superpowers v7) valem aqui. Use `systematic-debu
 - `/ajustar <pedido>` — fazer uma mudança no cartão, testar em tela de celular e mostrar o resultado
 - `/revisar` — revisão da última mudança antes de publicar
 - `/publicar` — levar as mudanças aprovadas para a `main`
+- `/email-reuniao <para quem>` — escreve o e-mail da reunião; só envia depois do "enviar" dela
 - `/anotar <ideia>` — guardar uma ideia na lista `BACKLOG.md` sem executar
