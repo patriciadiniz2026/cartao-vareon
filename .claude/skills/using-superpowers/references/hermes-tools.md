@@ -28,7 +28,7 @@ Hermes Agent has a `skills` toolset with `skill_view` and `skills_list` tools.
 To invoke a superpowers skill, use:
 
 ```
-skill_view("brainstorming")
+skill_view("grilling")
 skill_view("test-driven-development")
 ```
 
