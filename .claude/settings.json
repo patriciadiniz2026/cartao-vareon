@@ -1,0 +1,14 @@
+{
+  "enabledPlugins": {
+    "sales@knowledge-work-plugins": false,
+    "small-business@knowledge-work-plugins": false,
+    "human-resources@knowledge-work-plugins": false,
+    "legal@knowledge-work-plugins": false,
+    "finance@knowledge-work-plugins": false,
+    "product-management@knowledge-work-plugins": false,
+    "marketing@knowledge-work-plugins": false,
+    "data@knowledge-work-plugins": false,
+    "cowork-plugin-management@knowledge-work-plugins": false,
+    "postiz@knowledge-work-plugins": false
+  }
+}
