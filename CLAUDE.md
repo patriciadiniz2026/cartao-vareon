@@ -21,7 +21,7 @@ Site estático: `index.html` (arquivo único, ~3,6 MB, gerado por bundler) e `pr
 As skills em `.claude/skills/` (Superpowers v7) valem aqui. Use `systematic-debugging` para erros,
 `requesting-code-review` antes de integrar e `verification-before-completion` antes de dizer "pronto".
 
-## Atalhos (digite no celular)
+## Atalhos (digite no celular) — guia leigo em `GUIA-CELULAR.md`
 - `/status` — resumo do projeto e do que está pendente
 - `/ajustar <pedido>` — fazer uma mudança no cartão, testar em tela de celular e mostrar o resultado
 - `/revisar` — revisão da última mudança antes de publicar
